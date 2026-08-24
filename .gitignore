@@ -1,0 +1,34 @@
+# Simulation / waveform files
+*.vcd
+*.wlf
+*.asdb
+*.awc
+*.log
+
+# Generated compilation files
+*.erf
+*.sth
+*.gen
+*.mgf
+*.lib
+*.dll
+*.info
+
+# Generated directories
+compile/
+work/
+sim/
+simulation/
+slp/
+
+# IDE files
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+~*
+
+# OS files
+.DS_Store
+Thumbs.db
